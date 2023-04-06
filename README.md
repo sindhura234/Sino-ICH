@@ -1,5 +1,5 @@
 # Sino_ICH
-The official repository for TMI paper on sinograms for ICH detection
+The official repository for Medical Physics paper on sinograms for ICH detection
 
 "Paper Title"
 
