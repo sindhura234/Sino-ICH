@@ -1,4 +1,4 @@
-# Sino_ICH
+# Sino-ICH
 The official repository for Medical Physics paper on sinograms for ICH detection
 
 "Paper Title"
